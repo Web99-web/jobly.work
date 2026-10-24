@@ -1,0 +1,4450 @@
+[
+  {
+    "code": "19",
+    "name": "ANDRIJAŠEVCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "27",
+    "name": "ANTUNOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "35",
+    "name": "BABINA GREDA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "33/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "43",
+    "name": "BAKAR",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "51",
+    "name": "BALE - VALLE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "60",
+    "name": "BARBAN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "78",
+    "name": "BARILOVIĆ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "86",
+    "name": "BAŠKA",
+    "lower": 1500,
+    "upper": 2500,
+    "decision": "143/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "94",
+    "name": "BAŠKA VODA",
+    "lower": 1700,
+    "upper": 2700,
+    "decision": "151/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "108",
+    "name": "BEBRINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "116",
+    "name": "BEDEKOVČINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5509",
+    "name": "BEDENICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "8/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "124",
+    "name": "BEDNJA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "132",
+    "name": "BELI MANASTIR",
+    "lower": 2100,
+    "upper": 2700,
+    "decision": "150/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "159",
+    "name": "BELICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "167",
+    "name": "BELIŠĆE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "152/24",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "175",
+    "name": "BENKOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "183",
+    "name": "BEREK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "191",
+    "name": "BERETINEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "205",
+    "name": "BIBINJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6211",
+    "name": "BILICE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "143/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "213",
+    "name": "BILJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "151/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "221",
+    "name": "BIOGRAD NA MORU",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3107",
+    "name": "BISKUPIJA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5479",
+    "name": "BISTRA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "230",
+    "name": "BIZOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "145/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "248",
+    "name": "BJELOVAR",
+    "lower": 1800,
+    "upper": 2500,
+    "decision": "143/23, 75/24",
+    "effective": "1.1.2025."
+  },
+  {
+    "code": "256",
+    "name": "BLATO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "264",
+    "name": "BOGDANOVCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "272",
+    "name": "BOL",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "299",
+    "name": "BOROVO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "151/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "302",
+    "name": "BOSILJEVO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "329",
+    "name": "BOŠNJACI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "337",
+    "name": "BRCKOVLJANI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "345",
+    "name": "BRDOVEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "146/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "779",
+    "name": "BRELA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "353",
+    "name": "BRESTOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "361",
+    "name": "BREZNICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "30/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "1511",
+    "name": "BREZNIČKI HUM",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "370",
+    "name": "BRINJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "34/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "388",
+    "name": "BROD MORAVICE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "396",
+    "name": "BRODSKI STUPNIK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "158/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "400",
+    "name": "BRTONIGLA - VERTENEGLIO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "418",
+    "name": "BUDINŠČINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "426",
+    "name": "BUJE - BUIE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "147/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5673",
+    "name": "BUKOVLJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "434",
+    "name": "BUZET",
+    "lower": 2100,
+    "upper": 3100,
+    "decision": "33/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "442",
+    "name": "CERNA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "469",
+    "name": "CERNIK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "477",
+    "name": "CEROVLJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "485",
+    "name": "CESTICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "493",
+    "name": "CETINGRAD",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "507",
+    "name": "CISTA PROVO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "515",
+    "name": "CIVLJANE",
+    "lower": 1500,
+    "upper": 2500,
+    "decision": "35/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "523",
+    "name": "CRES",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "531",
+    "name": "CRIKVENICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "540",
+    "name": "CRNAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "141/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "558",
+    "name": "ČABAR",
+    "lower": 1900,
+    "upper": 3000,
+    "decision": "35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "566",
+    "name": "ČAČINCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "146/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "574",
+    "name": "ČAĐAVICA",
+    "lower": 2000,
+    "upper": 2500,
+    "decision": "154/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "582",
+    "name": "ČAGLIN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "604",
+    "name": "ČAKOVEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "612",
+    "name": "ČAVLE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "639",
+    "name": "ČAZMA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "647",
+    "name": "ČEMINAC",
+    "lower": 2000,
+    "upper": 2500,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "655",
+    "name": "ČEPIN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "16/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "663",
+    "name": "DARDA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "671",
+    "name": "DARUVAR",
+    "lower": 2100,
+    "upper": 3000,
+    "decision": "129/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "680",
+    "name": "DAVOR",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6033",
+    "name": "DEKANOVEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "698",
+    "name": "DELNICE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "701",
+    "name": "DESINIĆ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "710",
+    "name": "DEŽANOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "6/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "728",
+    "name": "DICMO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "144/23, 33/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "744",
+    "name": "DOBRINJ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "752",
+    "name": "DOMAŠINEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "787",
+    "name": "DONJA DUBRAVA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5762",
+    "name": "DONJA MOTIČINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "795",
+    "name": "DONJA STUBICA",
+    "lower": 2100,
+    "upper": 3100,
+    "decision": "33/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "809",
+    "name": "DONJA VOĆA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "817",
+    "name": "DONJI ANDRIJEVCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "55/24",
+    "effective": "1.1.2025."
+  },
+  {
+    "code": "825",
+    "name": "DONJI KRALJEVEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "833",
+    "name": "DONJI KUKURUZARI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "841",
+    "name": "DONJI LAPAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "868",
+    "name": "DONJI MIHOLJAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "147/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "892",
+    "name": "DONJI VIDOVEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5681",
+    "name": "DRAGALIĆ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "33/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "906",
+    "name": "DRAGANIĆ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "6/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "914",
+    "name": "DRAŽ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "922",
+    "name": "DRENOVCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "949",
+    "name": "DRENJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "151/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "957",
+    "name": "DRNIŠ",
+    "lower": 2000,
+    "upper": 2500,
+    "decision": "151/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "965",
+    "name": "DRNJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "973",
+    "name": "DUBRAVA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5495",
+    "name": "DUBRAVICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5983",
+    "name": "DUBROVAČKO PRIMORJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "981",
+    "name": "DUBROVNIK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "990",
+    "name": "DUGA RESA",
+    "lower": 2100,
+    "upper": 3100,
+    "decision": "6/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "1007",
+    "name": "DUGI RAT",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1015",
+    "name": "DUGO SELO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5851",
+    "name": "DUGOPOLJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1023",
+    "name": "DVOR",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1031",
+    "name": "ĐAKOVO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1040",
+    "name": "ĐELEKOVEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1058",
+    "name": "ĐULOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1066",
+    "name": "ĐURĐENOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "151/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1074",
+    "name": "ĐURĐEVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1082",
+    "name": "ĐURMANEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1104",
+    "name": "ERDUT",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1112",
+    "name": "ERNESTINOVO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "145/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1139",
+    "name": "ERVENIK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1147",
+    "name": "FARKAŠEVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6190",
+    "name": "FAŽANA - FASANA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1155",
+    "name": "FERDINANDOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1163",
+    "name": "FERIČANCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6297",
+    "name": "FUNTANA - FONTANE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1171",
+    "name": "FUŽINE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5711",
+    "name": "GALOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1180",
+    "name": "GARČIN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1198",
+    "name": "GAREŠNICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1201",
+    "name": "GENERALSKI STOL",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1210",
+    "name": "GLINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "147/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1228",
+    "name": "GOLA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1236",
+    "name": "GORIČAN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "146/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1244",
+    "name": "GORJANI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6181",
+    "name": "GORNJA RIJEKA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1252",
+    "name": "GORNJA STUBICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5690",
+    "name": "GORNJA VRBA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1279",
+    "name": "GORNJI BOGIĆEVCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "152/24",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "1295",
+    "name": "GORNJI KNEGINEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6041",
+    "name": "GORNJI MIHALJEVEC",
+    "lower": 1700,
+    "upper": 2700,
+    "decision": "6/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "1309",
+    "name": "GOSPIĆ",
+    "lower": 2200,
+    "upper": 3200,
+    "decision": "154/23, 34/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "1317",
+    "name": "GRAČAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1325",
+    "name": "GRAČIŠĆE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "152/24",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "1341",
+    "name": "GRADAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "152/24",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "1350",
+    "name": "GRADEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1368",
+    "name": "GRADINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1376",
+    "name": "GRADIŠTE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1384",
+    "name": "GROŽNJAN - GRISIGNANA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "151/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1392",
+    "name": "GRUBIŠNO POLJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "144/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1406",
+    "name": "GUNDINCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1414",
+    "name": "GUNJA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5100",
+    "name": "GVOZD",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1449",
+    "name": "HERCEGOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "151/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1457",
+    "name": "HLEBINE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1465",
+    "name": "HRAŠĆINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "138/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1481",
+    "name": "HRVACE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1490",
+    "name": "HRVATSKA DUBICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1503",
+    "name": "HRVATSKA KOSTAJNICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1520",
+    "name": "HUM NA SUTLI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1538",
+    "name": "HVAR",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1546",
+    "name": "ILOK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "147/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1554",
+    "name": "IMOTSKI",
+    "lower": 2000,
+    "upper": 2500,
+    "decision": "156/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1562",
+    "name": "IVANEC",
+    "lower": 2100,
+    "upper": 3100,
+    "decision": "145/23, 28/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "1589",
+    "name": "IVANIĆ-GRAD",
+    "lower": 2100,
+    "upper": 3100,
+    "decision": "149/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "1597",
+    "name": "IVANKOVO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1619",
+    "name": "IVANSKA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6092",
+    "name": "JAGODNJAK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1635",
+    "name": "JAKOVLJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1643",
+    "name": "JAKŠIĆ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1651",
+    "name": "JALŽABET",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5991",
+    "name": "JANJINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1660",
+    "name": "JARMINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1678",
+    "name": "JASENICE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1686",
+    "name": "JASENOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "143/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1694",
+    "name": "JASTREBARSKO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "147/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1708",
+    "name": "JELENJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1716",
+    "name": "JELSA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "5525",
+    "name": "JESENJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1724",
+    "name": "JOSIPDOL",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1732",
+    "name": "KALI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5592",
+    "name": "KALINOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5606",
+    "name": "KALNIK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6238",
+    "name": "KAMANJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "5/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "1759",
+    "name": "KANFANAR",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1767",
+    "name": "KAPELA",
+    "lower": 1500,
+    "upper": 2500,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1775",
+    "name": "KAPTOL",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "145/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1783",
+    "name": "KARLOBAG",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1791",
+    "name": "KARLOVAC",
+    "lower": 1900,
+    "upper": 2900,
+    "decision": "147/23, 141/24",
+    "effective": "1.1.2025."
+  },
+  {
+    "code": "5967",
+    "name": "KAROJBA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1805",
+    "name": "KASTAV",
+    "lower": 2000,
+    "upper": 3100,
+    "decision": "34/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "1813",
+    "name": "KAŠTELA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5975",
+    "name": "KAŠTELIR-LABINCI - CASTELLIERE-S. DOMENICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1830",
+    "name": "KIJEVO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "142/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1848",
+    "name": "KISTANJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1856",
+    "name": "KLAKAR",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "154/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1864",
+    "name": "KLANA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1872",
+    "name": "KLANJEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1899",
+    "name": "KLENOVNIK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "1902",
+    "name": "KLINČA SELA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "144/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1929",
+    "name": "KLIS",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "155/24",
+    "effective": "1.1.2025."
+  },
+  {
+    "code": "1937",
+    "name": "KLOŠTAR IVANIĆ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1945",
+    "name": "KLOŠTAR PODRAVSKI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1953",
+    "name": "KNEŽEVI VINOGRADI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1961",
+    "name": "KNIN",
+    "lower": 2100,
+    "upper": 3000,
+    "decision": "152/24",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "6220",
+    "name": "KOLAN",
+    "lower": 1500,
+    "upper": 2500,
+    "decision": "117/24",
+    "effective": "1.1.2025."
+  },
+  {
+    "code": "1970",
+    "name": "KOMIŽA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "156/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1988",
+    "name": "KONAVLE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1996",
+    "name": "KONČANICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "33/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "2003",
+    "name": "KONJŠČINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2011",
+    "name": "KOPRIVNICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2020",
+    "name": "KOPRIVNIČKI BREGI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2038",
+    "name": "KOPRIVNIČKI IVANEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2046",
+    "name": "KORČULA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5380",
+    "name": "KOSTRENA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2054",
+    "name": "KOŠKA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2062",
+    "name": "KOTORIBA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2089",
+    "name": "KRALJEVEC NA SUTLI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2097",
+    "name": "KRALJEVICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2119",
+    "name": "KRAPINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2127",
+    "name": "KRAPINSKE TOPLICE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5339",
+    "name": "KRAŠIĆ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5452",
+    "name": "KRAVARSKO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "146/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2135",
+    "name": "KRIŽ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2143",
+    "name": "KRIŽEVCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "156/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2151",
+    "name": "KRK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2160",
+    "name": "KRNJAK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2178",
+    "name": "KRŠAN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5720",
+    "name": "KUKLJICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2194",
+    "name": "KULA NORINSKA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5533",
+    "name": "KUMROVEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2208",
+    "name": "KUTINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2216",
+    "name": "KUTJEVO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2224",
+    "name": "LABIN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2232",
+    "name": "LANIŠĆE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "2259",
+    "name": "LASINJA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "138/24",
+    "effective": "1.1.2025."
+  },
+  {
+    "code": "2267",
+    "name": "LASTOVO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "33/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "5860",
+    "name": "LEĆEVICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2275",
+    "name": "LEGRAD",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2283",
+    "name": "LEKENIK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "144/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2291",
+    "name": "LEPOGLAVA",
+    "lower": 2100,
+    "upper": 3100,
+    "decision": "145/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2305",
+    "name": "LEVANJSKA VAROŠ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2313",
+    "name": "LIPIK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "146/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2321",
+    "name": "LIPOVLJANI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2348",
+    "name": "LIŠANE OSTROVIČKE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "2356",
+    "name": "LIŽNJAN - LISIGNANO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2364",
+    "name": "LOBOR",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2372",
+    "name": "LOKVE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5878",
+    "name": "LOKVIČIĆI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6246",
+    "name": "LOPAR",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2399",
+    "name": "LOVAS",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2402",
+    "name": "LOVINAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "35/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "2429",
+    "name": "LOVRAN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2437",
+    "name": "LOVREĆ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2445",
+    "name": "LUDBREG",
+    "lower": 2000,
+    "upper": 3100,
+    "decision": "138/24",
+    "effective": "1.1.2025."
+  },
+  {
+    "code": "5487",
+    "name": "LUKA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2453",
+    "name": "LUKAČ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "145/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6009",
+    "name": "LUMBARDA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2461",
+    "name": "LUPOGLAV",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "2470",
+    "name": "LJUBEŠĆICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2488",
+    "name": "MAČE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5789",
+    "name": "MAGADENOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "146/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5550",
+    "name": "MAJUR",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2496",
+    "name": "MAKARSKA",
+    "lower": 1800,
+    "upper": 3100,
+    "decision": "33/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "2500",
+    "name": "MALA SUBOTICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2518",
+    "name": "MALI BUKOVEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "145/23, 153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2526",
+    "name": "MALI LOŠINJ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2534",
+    "name": "MALINSKA-DUBAŠNICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2542",
+    "name": "MARČANA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2569",
+    "name": "MARIJA BISTRICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5398",
+    "name": "MARIJA GORICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2577",
+    "name": "MARIJANCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2585",
+    "name": "MARINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6106",
+    "name": "MARKUŠICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "850",
+    "name": "MARTIJANEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "154/24",
+    "effective": "1.1.2025."
+  },
+  {
+    "code": "2593",
+    "name": "MARTINSKA VES",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2607",
+    "name": "MARUŠEVEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "33/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "2615",
+    "name": "MATULJI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "33/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "2631",
+    "name": "MEDULIN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2640",
+    "name": "METKOVIĆ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2658",
+    "name": "MIHOVLJAN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2666",
+    "name": "MIKLEUŠ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2674",
+    "name": "MILNA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "2682",
+    "name": "MLJET",
+    "lower": 2000,
+    "upper": 2700,
+    "decision": "30/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "2704",
+    "name": "MOLVE",
+    "lower": 1500,
+    "upper": 2500,
+    "decision": "141/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2739",
+    "name": "MOŠĆENIČKA DRAGA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2747",
+    "name": "MOTOVUN - MONTONA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2755",
+    "name": "MRKOPALJ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "154/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "876",
+    "name": "MUĆ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2763",
+    "name": "MURSKO SREDIŠĆE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6173",
+    "name": "MURTER - KORNATI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2780",
+    "name": "NAŠICE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2798",
+    "name": "NEDELIŠĆE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6122",
+    "name": "NEGOSLAVCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2801",
+    "name": "NEREŽIŠĆA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2810",
+    "name": "NETRETIĆ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2950",
+    "name": "NIJEMCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2828",
+    "name": "NIN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "158/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2836",
+    "name": "NOVA BUKOVICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2844",
+    "name": "NOVA GRADIŠKA",
+    "lower": 2100,
+    "upper": 3100,
+    "decision": "35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "2852",
+    "name": "NOVA KAPELA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2879",
+    "name": "NOVA RAČA",
+    "lower": 1700,
+    "upper": 2700,
+    "decision": "34/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "2887",
+    "name": "NOVALJA",
+    "lower": 1500,
+    "upper": 2500,
+    "decision": "34/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "5541",
+    "name": "NOVI GOLUBOVEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2895",
+    "name": "NOVI MAROF",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "146/23, 156/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2909",
+    "name": "NOVI VINODOLSKI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "147/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5371",
+    "name": "NOVIGRAD",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2917",
+    "name": "NOVIGRAD - CITTANOVA",
+    "lower": 2000,
+    "upper": 3100,
+    "decision": "34/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "2925",
+    "name": "NOVIGRAD PODRAVSKI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5614",
+    "name": "NOVO VIRJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2933",
+    "name": "NOVSKA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "147/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2941",
+    "name": "NUŠTAR",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2968",
+    "name": "OBROVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2976",
+    "name": "OGULIN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "5886",
+    "name": "OKRUG",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "146/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2992",
+    "name": "OKUČANI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "139/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "3000",
+    "name": "OMIŠ",
+    "lower": 2100,
+    "upper": 3100,
+    "decision": "33/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "3018",
+    "name": "OMIŠALJ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3026",
+    "name": "OPATIJA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3034",
+    "name": "OPRISAVCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3042",
+    "name": "OPRTALJ - PORTOLE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3069",
+    "name": "OPUZEN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3077",
+    "name": "ORAHOVICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3085",
+    "name": "OREBIĆ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6050",
+    "name": "OREHOVICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3093",
+    "name": "ORIOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "138/24",
+    "effective": "1.1.2025."
+  },
+  {
+    "code": "5428",
+    "name": "ORLE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3115",
+    "name": "OROSLAVJE*",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "152/23, 114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3123",
+    "name": "OSIJEK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3131",
+    "name": "OTOČAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "152/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3140",
+    "name": "OTOK",
+    "lower": 1700,
+    "upper": 2700,
+    "decision": "148/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "5355",
+    "name": "OTOK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3158",
+    "name": "OZALJ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "147/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3166",
+    "name": "PAG",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "147/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3174",
+    "name": "PAKOŠTANE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3182",
+    "name": "PAKRAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "147/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3204",
+    "name": "PAŠMAN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3212",
+    "name": "PAZIN",
+    "lower": 2200,
+    "upper": 3000,
+    "decision": "143/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3239",
+    "name": "PERUŠIĆ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3247",
+    "name": "PETERANEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3255",
+    "name": "PETLOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3263",
+    "name": "PETRIJANEC",
+    "lower": 2000,
+    "upper": 2700,
+    "decision": "33/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "3271",
+    "name": "PETRIJEVCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3280",
+    "name": "PETRINJA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "155/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3298",
+    "name": "PETROVSKO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3301",
+    "name": "PIĆAN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5819",
+    "name": "PIROVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3310",
+    "name": "PISAROVINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3328",
+    "name": "PITOMAČA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "131/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3336",
+    "name": "PLAŠKI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3344",
+    "name": "PLETERNICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4553",
+    "name": "PLITVIČKA JEZERA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "3352",
+    "name": "PLOČE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "146/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3379",
+    "name": "PODBABLJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3387",
+    "name": "PODCRKAVLJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3395",
+    "name": "PODGORA",
+    "lower": 1800,
+    "upper": 3000,
+    "decision": "158/23, 35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "3409",
+    "name": "PODGORAČ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2712",
+    "name": "PODRAVSKA MOSLAVINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6165",
+    "name": "PODRAVSKE SESVETE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3417",
+    "name": "PODSTRANA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3425",
+    "name": "PODTUREN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3433",
+    "name": "POJEZERJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5444",
+    "name": "POKUPSKO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "146/24",
+    "effective": "1.1.2025."
+  },
+  {
+    "code": "3441",
+    "name": "POLAČA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3450",
+    "name": "POLIČNIK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3468",
+    "name": "POPOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3476",
+    "name": "POPOVAČA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3484",
+    "name": "POREČ - PARENZO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3492",
+    "name": "POSEDARJE",
+    "lower": 1800,
+    "upper": 3000,
+    "decision": "152/24",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "3506",
+    "name": "POSTIRA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5738",
+    "name": "POVLJANA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "149/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "3514",
+    "name": "POŽEGA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "156/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3522",
+    "name": "PREGRADA",
+    "lower": 2100,
+    "upper": 3100,
+    "decision": "24/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "3549",
+    "name": "PREKO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3557",
+    "name": "PRELOG",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3565",
+    "name": "PRESEKA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5894",
+    "name": "PRGOMET",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6203",
+    "name": "PRIBISLAVEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5908",
+    "name": "PRIMORSKI DOLAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3573",
+    "name": "PRIMOŠTEN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "5835",
+    "name": "PRIVLAKA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5746",
+    "name": "PRIVLAKA",
+    "lower": 1700,
+    "upper": 3000,
+    "decision": "108/24",
+    "effective": "1.1.2025."
+  },
+  {
+    "code": "884",
+    "name": "PROLOŽAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "2984",
+    "name": "PROMINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3581",
+    "name": "PUČIŠĆA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3590",
+    "name": "PULA - POLA",
+    "lower": 2200,
+    "upper": 3200,
+    "decision": "154/23, 148/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "3603",
+    "name": "PUNAT",
+    "lower": 1500,
+    "upper": 3000,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3611",
+    "name": "PUNITOVCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3620",
+    "name": "PUŠĆA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3638",
+    "name": "RAB",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3646",
+    "name": "RADOBOJ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23, 35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "5363",
+    "name": "RAKOVEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3654",
+    "name": "RAKOVICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3662",
+    "name": "RASINJA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3689",
+    "name": "RAŠA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3697",
+    "name": "RAVNA GORA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3719",
+    "name": "RAŽANAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3727",
+    "name": "REŠETARI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "143/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "5568",
+    "name": "RIBNIK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "33/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "3735",
+    "name": "RIJEKA",
+    "lower": 2000,
+    "upper": 2500,
+    "decision": "149/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "5827",
+    "name": "ROGOZNICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3743",
+    "name": "ROVINJ - ROVIGNO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "144/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3751",
+    "name": "ROVIŠĆE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3760",
+    "name": "RUGVICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5916",
+    "name": "RUNOVIĆI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3778",
+    "name": "RUŽIĆ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3786",
+    "name": "SABORSKO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3794",
+    "name": "SALI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3808",
+    "name": "SAMOBOR",
+    "lower": 1800,
+    "upper": 2700,
+    "decision": "147/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3816",
+    "name": "SATNICA ĐAKOVAČKA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3824",
+    "name": "SEGET",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3832",
+    "name": "SELCA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3859",
+    "name": "SELNICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3867",
+    "name": "SEMELJCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "151/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3875",
+    "name": "SENJ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5622",
+    "name": "SEVERIN",
+    "lower": 1800,
+    "upper": 2800,
+    "decision": "138/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3883",
+    "name": "SIBINJ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "5703",
+    "name": "SIKIREVCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3891",
+    "name": "SINJ",
+    "lower": 1800,
+    "upper": 3000,
+    "decision": "152/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3905",
+    "name": "SIRAČ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3913",
+    "name": "SISAK",
+    "lower": 2160,
+    "upper": 3160,
+    "decision": "152/23, 151/24",
+    "effective": "1.1.2025."
+  },
+  {
+    "code": "3930",
+    "name": "SKRAD",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3948",
+    "name": "SKRADIN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3956",
+    "name": "SLATINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3964",
+    "name": "SLAVONSKI BROD",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3972",
+    "name": "SLAVONSKI ŠAMAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "3999",
+    "name": "SLIVNO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4006",
+    "name": "SLUNJ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "152/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4022",
+    "name": "SMOKVICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4057",
+    "name": "SOKOLOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4065",
+    "name": "SOLIN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4073",
+    "name": "SOPJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4090",
+    "name": "SPLIT",
+    "lower": 2150,
+    "upper": 3200,
+    "decision": "150/23, 35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "4103",
+    "name": "SRAČINEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "28/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "4111",
+    "name": "STANKOVCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "140/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4120",
+    "name": "STARA GRADIŠKA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "153/23, 157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4138",
+    "name": "STARI GRAD",
+    "lower": 2000,
+    "upper": 3100,
+    "decision": "35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "4146",
+    "name": "STARI JANKOVCI",
+    "lower": 1500,
+    "upper": 2500,
+    "decision": "153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4154",
+    "name": "STARI MIKANOVCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "154/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4162",
+    "name": "STARIGRAD",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4189",
+    "name": "STARO PETROVO SELO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4197",
+    "name": "STON",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "152/24",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "6068",
+    "name": "STRAHONINEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4219",
+    "name": "STRIZIVOJNA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4227",
+    "name": "STUBIČKE TOPLICE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5517",
+    "name": "STUPNIK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4235",
+    "name": "SUĆURAJ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4243",
+    "name": "SUHOPOLJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4251",
+    "name": "SUKOŠAN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4260",
+    "name": "SUNJA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4278",
+    "name": "SUPETAR",
+    "lower": 2050,
+    "upper": 3100,
+    "decision": "35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "5924",
+    "name": "SUTIVAN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "6076",
+    "name": "SVETA MARIJA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4324",
+    "name": "SVETA NEDELJA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4367",
+    "name": "SVETA NEDELJA",
+    "lower": 1800,
+    "upper": 2800,
+    "decision": "150/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4375",
+    "name": "SVETI ĐURĐ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4286",
+    "name": "SVETI FILIP I JAKOV",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4383",
+    "name": "SVETI ILIJA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "145/23, 157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4294",
+    "name": "SVETI IVAN ZELINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "154/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4391",
+    "name": "SVETI IVAN ŽABNO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4405",
+    "name": "SVETI JURAJ NA BREGU",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4308",
+    "name": "SVETI KRIŽ ZAČRETJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4316",
+    "name": "SVETI LOVREČ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "4413",
+    "name": "SVETI MARTIN NA MURI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4421",
+    "name": "SVETI PETAR OREHOVEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4332",
+    "name": "SVETI PETAR U ŠUMI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4359",
+    "name": "SVETVINČENAT",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "35/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "5649",
+    "name": "ŠANDROVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "33/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "6084",
+    "name": "ŠENKOVEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4430",
+    "name": "ŠESTANOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4448",
+    "name": "ŠIBENIK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4456",
+    "name": "ŠKABRNJA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6149",
+    "name": "ŠODOLOVCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4472",
+    "name": "ŠOLTA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4499",
+    "name": "ŠPIŠIĆ BUKOVICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4502",
+    "name": "ŠTEFANJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6289",
+    "name": "ŠTITAR",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "152/24",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "4529",
+    "name": "ŠTRIGOVA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6319",
+    "name": "TAR-VABRIGA - TORRE-ABREGA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "143/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4537",
+    "name": "TINJAN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/24",
+    "effective": "1.1.2025."
+  },
+  {
+    "code": "4545",
+    "name": "TISNO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "146/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5754",
+    "name": "TKON",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4561",
+    "name": "TOMPOJEVCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4570",
+    "name": "TOPUSKO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4588",
+    "name": "TORDINCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5576",
+    "name": "TOUNJ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4596",
+    "name": "TOVARNIK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6262",
+    "name": "TRIBUNJ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4600",
+    "name": "TRILJ",
+    "lower": 1500,
+    "upper": 3000,
+    "decision": "141/24",
+    "effective": "1.1.2025."
+  },
+  {
+    "code": "4618",
+    "name": "TRNAVA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4626",
+    "name": "TRNOVEC BARTOLOVEČKI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "35/25, 146/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "4634",
+    "name": "TROGIR",
+    "lower": 2100,
+    "upper": 3100,
+    "decision": "33/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "6017",
+    "name": "TRPANJ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "140/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4642",
+    "name": "TRPINJA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5932",
+    "name": "TUČEPI",
+    "lower": 1700,
+    "upper": 3000,
+    "decision": "148/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "4669",
+    "name": "TUHELJ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4677",
+    "name": "UDBINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "154/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4685",
+    "name": "UMAG - UMAGO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4693",
+    "name": "UNEŠIĆ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4715",
+    "name": "VALPOVO",
+    "lower": 2100,
+    "upper": 3100,
+    "decision": "33/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "4723",
+    "name": "VARAŽDIN",
+    "lower": 2100,
+    "upper": 3200,
+    "decision": "147/23, 151/24",
+    "effective": "1.1.2025."
+  },
+  {
+    "code": "4731",
+    "name": "VARAŽDINSKE TOPLICE",
+    "lower": 2100,
+    "upper": 3000,
+    "decision": "138/24",
+    "effective": "1.1.2025."
+  },
+  {
+    "code": "4740",
+    "name": "VELA LUKA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4758",
+    "name": "VELIKA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5410",
+    "name": "VELIKA GORICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4766",
+    "name": "VELIKA KOPANICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "146/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4774",
+    "name": "VELIKA LUDINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4782",
+    "name": "VELIKA PISANICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5657",
+    "name": "VELIKA TRNOVITICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5584",
+    "name": "VELIKI BUKOVEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "151/24",
+    "effective": "1.1.2025."
+  },
+  {
+    "code": "4804",
+    "name": "VELIKI GRĐEVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "151/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4812",
+    "name": "VELIKO TRGOVIŠĆE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "141/23, 33/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "4839",
+    "name": "VELIKO TROJSTVO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "146/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "4847",
+    "name": "VIDOVEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "140/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4855",
+    "name": "VILJEVO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4863",
+    "name": "VINICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "141/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4871",
+    "name": "VINKOVCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4880",
+    "name": "VINODOLSKA OPĆINA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4898",
+    "name": "VIR",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4901",
+    "name": "VIRJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4910",
+    "name": "VIROVITICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "152/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4928",
+    "name": "VIS",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4936",
+    "name": "VISOKO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4944",
+    "name": "VIŠKOVCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4952",
+    "name": "VIŠKOVO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4979",
+    "name": "VIŠNJAN - VISIGNANO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4987",
+    "name": "VIŽINADA - VISINADA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "151/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5797",
+    "name": "VLADISLAVCI",
+    "lower": 2000,
+    "upper": 2500,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "4995",
+    "name": "VOĆIN",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5002",
+    "name": "VODICE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "131/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5029",
+    "name": "VODNJAN - DIGNANO",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "34/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "5843",
+    "name": "VOĐINCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "153/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5037",
+    "name": "VOJNIĆ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "157/23, 4/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "5045",
+    "name": "VRATIŠINEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5053",
+    "name": "VRBANJA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "158/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5061",
+    "name": "VRBJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "33/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "5070",
+    "name": "VRBNIK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5088",
+    "name": "VRBOVEC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5096",
+    "name": "VRBOVSKO",
+    "lower": 2100,
+    "upper": 3100,
+    "decision": "34/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "5118",
+    "name": "VRGORAC",
+    "lower": 2100,
+    "upper": 2500,
+    "decision": "34/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "5126",
+    "name": "VRHOVINE",
+    "lower": 1800,
+    "upper": 3000,
+    "decision": "146/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5134",
+    "name": "VRLIKA",
+    "lower": 1800,
+    "upper": 2800,
+    "decision": "144/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "5142",
+    "name": "VRPOLJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5169",
+    "name": "VRSAR - ORSERA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "111/25, 149/25",
+    "effective": "1.1.2026."
+  },
+  {
+    "code": "6254",
+    "name": "VRSI",
+    "lower": 1500,
+    "upper": 3000,
+    "decision": "148/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5177",
+    "name": "VUKA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "154/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5185",
+    "name": "VUKOVAR",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5193",
+    "name": "ZABOK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5207",
+    "name": "ZADAR",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5959",
+    "name": "ZADVARJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5215",
+    "name": "ZAGORSKA SELA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "1333",
+    "name": "ZAGREB",
+    "lower": 2300,
+    "upper": 3300,
+    "decision": "28/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "5223",
+    "name": "ZAGVOZD",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5436",
+    "name": "ZAPREŠIĆ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5231",
+    "name": "ZAŽABLJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5240",
+    "name": "ZDENCI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "154/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5258",
+    "name": "ZEMUNIK DONJI",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5266",
+    "name": "ZLATAR",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5274",
+    "name": "ZLATAR BISTRICA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5282",
+    "name": "ZMIJAVCI",
+    "lower": 2000,
+    "upper": 2500,
+    "decision": "136/24",
+    "effective": "1.1.2025."
+  },
+  {
+    "code": "5665",
+    "name": "ZRINSKI TOPOLOVAC",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5304",
+    "name": "ŽAKANJE",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "33/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "5312",
+    "name": "ŽMINJ",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "35/25",
+    "effective": "1.3.2025."
+  },
+  {
+    "code": "5401",
+    "name": "ŽUMBERAK",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "151/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "6025",
+    "name": "ŽUPA DUBROVAČKA",
+    "lower": 2000,
+    "upper": 3000,
+    "decision": "114/23",
+    "effective": "1.1.2024."
+  },
+  {
+    "code": "5347",
+    "name": "ŽUPANJA",
+    "lower": 2100,
+    "upper": 3100,
+    "decision": "153/24",
+    "effective": "1.1.2025."
+  }
+]

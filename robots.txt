@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jobly.work/sitemap.xml
