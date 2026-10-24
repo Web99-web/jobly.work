@@ -72,5 +72,107 @@ body {
   </div>
 </div>
 
+<!-- Jobly: optional analytics. Original landing styles and content are preserved. -->
+<style>
+#jobly-privacy-link{display:block;margin:18px auto 24px;padding:5px;border:0;background:none;color:#687780;text-decoration:underline;text-underline-offset:3px;font:12px/1.5 -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;cursor:pointer}
+#jobly-consent[hidden]{display:none}
+#jobly-consent{position:fixed;z-index:20;right:24px;bottom:24px;width:408px;max-width:calc(100% - 32px);max-height:calc(100dvh - 32px);overflow:auto;padding:23px 24px 20px;border:1px solid #dce6ed;border-radius:14px;background:#fff;box-shadow:0 8px 32px rgba(22,61,83,.12);color:#263845;text-align:left;font:14px/1.55 -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif}
+#jobly-consent:before{content:'';display:block;position:absolute;top:0;left:0;right:0;height:4px;background:linear-gradient(135deg,#00b894,#0984e3)}
+#jobly-consent h2{margin:0 0 8px;font-size:19px;line-height:1.3;letter-spacing:-.3px;font-weight:650;color:#203744}
+#jobly-consent p{margin:0;color:#586b78}
+#jobly-consent .jobly-consent-actions{display:flex;gap:10px;margin-top:18px}
+#jobly-consent .jobly-consent-actions button{flex:1;min-height:44px;padding:10px 8px;border:1px solid #8ea8b9;border-radius:7px;background:#fff;color:#195573;font:600 13px/1.4 -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;cursor:pointer}
+#jobly-consent .jobly-consent-actions button:hover{background:#f1f8fc;border-color:#0984e3}
+#jobly-consent .jobly-consent-actions #jobly-allow{background:#0984e3;border-color:#0984e3;color:#fff}
+#jobly-consent .jobly-consent-actions #jobly-allow:hover{background:#0871c2;border-color:#0871c2}
+#jobly-consent button:focus-visible,#jobly-privacy-link:focus-visible,#jobly-consent summary:focus-visible{outline:3px solid #0984e3;outline-offset:3px}
+#jobly-consent details{margin-top:11px;color:#586b78;font-size:12px}
+#jobly-consent summary{width:fit-content;color:#34657f;cursor:pointer;text-decoration:underline;text-underline-offset:3px;list-style:none}
+#jobly-consent summary::-webkit-details-marker{display:none}
+#jobly-consent details p{margin-top:9px;font-size:12px}
+@media(max-width:480px){#jobly-consent{right:12px;bottom:12px;width:calc(100% - 24px);max-width:calc(100% - 24px);padding:16px;font-size:13px;line-height:1.45;border-radius:11px}#jobly-consent h2{font-size:16px;margin-bottom:7px}#jobly-consent .jobly-consent-actions{gap:8px;margin-top:12px}#jobly-consent .jobly-consent-actions button{font-size:12px;padding:8px 5px}}
+</style>
+<button id="jobly-privacy-link" type="button" aria-controls="jobly-consent" aria-expanded="false">Analytics preferences</button>
+<section id="jobly-consent" role="region" aria-labelledby="jobly-consent-title" hidden>
+  <h2 id="jobly-consent-title">Analytics, your choice</h2>
+  <p>Help us improve Jobly with Google Analytics. You can accept or decline optional analytics.</p>
+  <div class="jobly-consent-actions">
+    <button id="jobly-decline" type="button">Decline analytics</button>
+    <button id="jobly-allow" type="button">Allow analytics</button>
+  </div>
+</section>
+<script>
+(function () {
+  'use strict';
+  var id = 'G-QSCJ09096J';
+  var key = 'jobly.analytics.v2';
+  var duration = 180 * 24 * 60 * 60 * 1000;
+  var loaded = false;
+  var panel = document.getElementById('jobly-consent');
+  var preferences = document.getElementById('jobly-privacy-link');
+  var localPreview = ['127.0.0.1', 'localhost', '[::1]'].indexOf(location.hostname) !== -1;
+  window['ga-disable-' + id] = true;
+
+  function readChoice() {
+    try {
+      var saved = JSON.parse(localStorage.getItem(key));
+      return saved && saved.expires > Date.now() && (saved.value === 'allow' || saved.value === 'deny') ? saved.value : null;
+    } catch (_) { return null; }
+  }
+  function remember(value) {
+    try { localStorage.setItem(key, JSON.stringify({value:value, expires:Date.now() + duration})); } catch (_) {}
+  }
+  function showPanel(show) {
+    panel.hidden = !show;
+    preferences.setAttribute('aria-expanded', String(show));
+  }
+  function startAnalytics() {
+    // Local previews never contact Google, even when Allow is selected.
+    if (localPreview || loaded) return;
+    loaded = true;
+    window['ga-disable-' + id] = false;
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { window.dataLayer.push(arguments); };
+    gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});
+    gtag('consent','update',{analytics_storage:'granted'});
+    gtag('js',new Date());
+    var referrer = '';
+    try { referrer = document.referrer ? new URL(document.referrer).origin : ''; } catch (_) {}
+    // Do not send arbitrary query parameters, URL fragments or referrer paths.
+    gtag('config',id,{allow_google_signals:false,allow_ad_personalization_signals:false,cookie_expires:15552000,page_location:location.origin + location.pathname,page_referrer:referrer});
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=' + id;
+    document.head.appendChild(script);
+  }
+  function removeCookies() {
+    document.cookie.split(';').forEach(function (item) {
+      var name = item.split('=')[0].trim();
+      if (name === '_ga' || name.indexOf('_ga_') === 0) {
+        ['', '; domain=' + location.hostname, '; domain=.jobly.work'].forEach(function (domain) {
+          document.cookie = name + '=; Max-Age=0; path=/' + domain + '; SameSite=Lax; Secure';
+        });
+      }
+    });
+  }
+  preferences.onclick = function () { showPanel(panel.hidden); };
+  document.getElementById('jobly-allow').onclick = function () {
+    remember('allow'); showPanel(false); preferences.focus(); startAnalytics();
+  };
+  document.getElementById('jobly-decline').onclick = function () {
+    remember('deny'); window['ga-disable-' + id] = true;
+    removeCookies(); showPanel(false); preferences.focus();
+    // Stop previously loaded tag timers too. No consent-denied pings are sent.
+    if (loaded) location.reload();
+  };
+  var choice = readChoice();
+  if (choice === 'allow') startAnalytics();
+  else {
+    removeCookies();
+    if (choice !== 'deny') showPanel(true);
+  }
+})();
+</script>
+
 </body>
 </html>
