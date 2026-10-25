@@ -64,6 +64,7 @@
   var key = 'jobly.analytics.v2';
   var duration = 180 * 24 * 60 * 60 * 1000;
   var loaded = false;
+  var interacted = false;
   var panel = document.getElementById('jobly-consent');
   var preferences = document.getElementById('jobly-privacy-link');
   var localPreview = ['127.0.0.1', 'localhost', '[::1]'].indexOf(location.hostname) !== -1;
@@ -115,12 +116,12 @@
       }
     });
   }
-  preferences.onclick = function () { showPanel(panel.hidden); };
+  preferences.onclick = function () { interacted = true; showPanel(panel.hidden); };
   document.getElementById('jobly-allow').onclick = function () {
-    remember('allow'); showPanel(false); preferences.focus(); startAnalytics();
+    interacted = true; remember('allow'); showPanel(false); preferences.focus(); startAnalytics();
   };
   document.getElementById('jobly-decline').onclick = function () {
-    remember('deny'); window['ga-disable-' + id] = true;
+    interacted = true; remember('deny'); window['ga-disable-' + id] = true;
     removeCookies(); showPanel(false); preferences.focus();
     // Stop previously loaded tag timers too. No consent-denied pings are sent.
     if (loaded) location.reload();
@@ -128,17 +129,36 @@
   document.getElementById('jobly-customize').onclick = function () {
     document.getElementById('jobly-consent-intro').hidden = true;
     document.getElementById('jobly-consent-settings').hidden = false;
-    document.getElementById('jobly-analytics-choice').checked = readChoice() === 'allow';
+    document.getElementById('jobly-analytics-choice').checked = loaded || readChoice() === 'allow';
   };
   document.getElementById('jobly-back').onclick = function () { showPanel(true); };
   document.getElementById('jobly-save').onclick = function () {
     document.getElementById(document.getElementById('jobly-analytics-choice').checked ? 'jobly-allow' : 'jobly-decline').onclick();
   };
+  // GitHub Pages has no geo endpoint: use Cloudflare's public CORS trace.
+  // Read only the country code; never retain or forward other trace fields.
+  var consentCountries = new Set('AT BE BG HR CY CZ DK EE FI FR DE GR HU IE IT LV LT LU MT NL PL PT RO SK SI ES SE IS LI NO GB AX GF GP MQ RE MF YT TR CN KR TH'.split(' '));
+  var knownCountries = new Set('AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET EU FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS XK YE YT ZA ZM ZW'.split(' '));
+  async function resolveAnalyticsRegion() {
+    if (localPreview) return;
+    try {
+      var response = await fetch('https://www.cloudflare.com/cdn-cgi/trace', {cache:'no-store', credentials:'omit', signal:AbortSignal.timeout(4000)});
+      if (!response.ok) return;
+      var body = await response.text();
+      if (body.length > 8192) return;
+      var rows = body.split(/\r?\n/).filter(function (row) { return row.indexOf('loc=') === 0; });
+      var country = rows.length === 1 ? rows[0].slice(4) : '';
+      // Never override a choice made while country detection was pending.
+      if (interacted || readChoice() || !knownCountries.has(country)) return;
+      if (consentCountries.has(country)) showPanel(true);
+      else startAnalytics();
+    } catch (_) { /* Unknown country: no automatic tracking or global prompt. */ }
+  }
   var choice = readChoice();
   if (choice === 'allow') startAnalytics();
   else {
     removeCookies();
-    if (choice !== 'deny') showPanel(true);
+    if (choice !== 'deny') resolveAnalyticsRegion();
   }
 })();
 </script>
