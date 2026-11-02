@@ -4,3 +4,6 @@
 @media(prefers-reduced-motion:no-preference){button,.button{transition:background .15s}}
 
 @media(max-width:480px){nav{flex-wrap:wrap;gap:10px}.brand{font-size:26px}.navlinks{gap:14px;flex-wrap:wrap}}
+
+/* Minimalna hrvatska navigacija i statičke rubrike */
+nav{flex-wrap:wrap;gap:12px}.market{margin-left:auto;font-size:12px;border-radius:20px;padding:4px 12px;background:#ffffff24}.navlinks{flex-basis:100%;flex-wrap:wrap;gap:10px}.navlinks>a,.salary-nav>summary{display:block;padding:6px 10px;background:#ffffff20;border-radius:8px;color:white;font-size:14px;cursor:pointer}.salary-nav{position:relative}.salary-nav>div{position:absolute;z-index:10;top:100%;left:0;background:#087ba5;padding:10px;border-radius:8px;min-width:190px;box-shadow:0 6px 20px #18334730}.salary-nav a{display:block;padding:8px}.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr));gap:18px}.card{border:1px solid var(--line);border-radius:14px;padding:22px}.card h2{font-size:20px;margin:0 0 12px}.card p{color:var(--muted)}.article{max-width:850px;margin:0 auto}.article h2{margin-top:30px}.article p,.article li{line-height:1.8}.group-search{max-width:600px;margin:24px 0}.article-meta{color:var(--muted);font-size:14px}@media(max-width:480px){.navlinks{gap:7px}.navlinks>a,.salary-nav>summary{font-size:13px;padding:6px 8px}.brand{font-size:26px}}
