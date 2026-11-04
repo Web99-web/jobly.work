@@ -11,3 +11,5 @@ nav{flex-wrap:wrap;gap:12px}.market{margin-left:auto;font-size:12px;border-radiu
 .article-cover,.card-cover{display:block;width:100%;height:auto;aspect-ratio:1200/630;object-fit:cover;border-radius:10px;margin-bottom:22px}
 
 .photo-credit{font-size:12px;line-height:1.5;color:var(--muted);margin:0 0 18px}
+
+.article h1{font-size:clamp(26px,4vw,38px);line-height:1.25}.article-summary{font-size:18px;font-weight:600}.article-table{overflow-x:auto;margin:24px 0}.article-table table{width:100%;border-collapse:collapse;font-size:14px}.article-table caption{text-align:left;font-weight:600;margin-bottom:10px}.article-table th,.article-table td{text-align:left;padding:12px;border-bottom:1px solid var(--line)}.article-table th{background:var(--soft)}
